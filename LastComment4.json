@@ -1,0 +1,2707 @@
+{
+  "data": [{
+    "created_time": "2016-09-23T00:28:35+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Slurp",
+    "id": "10150596813062584_717505198407275"
+  }, {
+    "created_time": "2016-09-23T00:30:32+0000",
+    "from": {
+      "name": "Justin Ma",
+      "id": "1075417732471708"
+    },
+    "message": "Ping",
+    "id": "10150596813062584_1177180948991688"
+  }, {
+    "created_time": "2016-09-23T00:32:30+0000",
+    "from": {
+      "name": "Jeffrey Lin",
+      "id": "10152514646028519"
+    },
+    "message": "Derp",
+    "id": "10150596813062584_1095782670512244"
+  }, {
+    "created_time": "2016-09-23T00:33:34+0000",
+    "from": {
+      "name": "Justin Ma",
+      "id": "1075417732471708"
+    },
+    "message": "Jeff are you free now",
+    "id": "10150596813062584_1107345079318704"
+  }, {
+    "created_time": "2016-09-23T00:38:24+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Lol",
+    "id": "10150596813062584_1107347992651746"
+  }, {
+    "created_time": "2016-09-23T01:23:07+0000",
+    "from": {
+      "name": "Justin Ma",
+      "id": "1075417732471708"
+    },
+    "message": "Jeff I need you to write an app for me",
+    "id": "10150596813062584_717517745072687"
+  }, {
+    "created_time": "2016-09-23T01:23:27+0000",
+    "from": {
+      "name": "Justin Ma",
+      "id": "1075417732471708"
+    },
+    "message": "An app that notifies people when I am in the ping pong room",
+    "id": "10150596813062584_1177209778988805"
+  }, {
+    "created_time": "2016-09-23T01:24:00+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": ".",
+    "id": "10150596813062584_1161359903906831"
+  }, {
+    "created_time": "2016-09-23T01:26:33+0000",
+    "from": {
+      "name": "Jeffrey Lin",
+      "id": "10152514646028519"
+    },
+    "message": "Free now",
+    "id": "10150596813062584_1177211152322001"
+  }, {
+    "created_time": "2016-09-23T01:26:38+0000",
+    "from": {
+      "name": "Jeffrey Lin",
+      "id": "10152514646028519"
+    },
+    "message": "But not free enough to write an app",
+    "id": "10150596813062584_1095813857175792"
+  }, {
+    "created_time": "2016-09-23T01:27:03+0000",
+    "from": {
+      "name": "Justin Ma",
+      "id": "1075417732471708"
+    },
+    "message": "An app where I can just indicate if I am there or not.",
+    "id": "10150596813062584_1095813960509115"
+  }, {
+    "created_time": "2016-09-23T01:27:26+0000",
+    "from": {
+      "name": "Jeffrey Lin",
+      "id": "10152514646028519"
+    },
+    "message": "will try",
+    "id": "10150596813062584_1177211548988628"
+  }, {
+    "created_time": "2016-09-23T01:27:38+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Get rekt",
+    "id": "10150596813062584_1095814133842431"
+  }, {
+    "created_time": "2016-09-23T01:28:03+0000",
+    "from": {
+      "name": "Jeffrey Lin",
+      "id": "10152514646028519"
+    },
+    "message": "but I will have to develop in Xamarin since I don't have a Mac",
+    "id": "10150596813062584_1177211862321930"
+  }, {
+    "created_time": "2016-09-23T01:28:52+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": ".",
+    "id": "10150596813062584_1107389909314221"
+  }, {
+    "created_time": "2016-09-23T01:29:06+0000",
+    "from": {
+      "name": "Jeffrey Lin",
+      "id": "10152514646028519"
+    },
+    "message": "check in the ping pong room on facebook",
+    "id": "10150596813062584_717519131739215"
+  }, {
+    "created_time": "2016-09-23T01:29:09+0000",
+    "from": {
+      "name": "Jeffrey Lin",
+      "id": "10152514646028519"
+    },
+    "message": ".",
+    "id": "10150596813062584_717519145072547"
+  }, {
+    "created_time": "2016-09-23T01:29:18+0000",
+    "from": {
+      "name": "Jeffrey Lin",
+      "id": "10152514646028519"
+    },
+    "message": ".",
+    "id": "10150596813062584_1177212418988541"
+  }, {
+    "created_time": "2016-09-23T01:29:19+0000",
+    "from": {
+      "name": "Jeffrey Lin",
+      "id": "10152514646028519"
+    },
+    "message": ".",
+    "id": "10150596813062584_1161361827239972"
+  }, {
+    "created_time": "2016-09-23T01:29:19+0000",
+    "from": {
+      "name": "Jeffrey Lin",
+      "id": "10152514646028519"
+    },
+    "message": ".",
+    "id": "10150596813062584_1177212432321873"
+  }, {
+    "created_time": "2016-09-23T01:29:20+0000",
+    "from": {
+      "name": "Jeffrey Lin",
+      "id": "10152514646028519"
+    },
+    "message": "C-C-COMBO BREAKER!!",
+    "id": "10150596813062584_1107390065980872"
+  }, {
+    "created_time": "2016-09-23T01:29:46+0000",
+    "from": {
+      "name": "Jeffrey Lin",
+      "id": "10152514646028519"
+    },
+    "message": "Louie Do I win something for 3000th comment?",
+    "id": "10150596813062584_717519238405871"
+  }, {
+    "created_time": "2016-09-23T01:31:09+0000",
+    "from": {
+      "name": "Justin Ma",
+      "id": "1075417732471708"
+    },
+    "message": "For my iPhone",
+    "id": "10150596813062584_542673062597749"
+  }, {
+    "created_time": "2016-09-23T01:31:53+0000",
+    "from": {
+      "name": "Justin Ma",
+      "id": "1075417732471708"
+    },
+    "message": "An app that notifies people. It just displays a green screen if I'm in and a red screen if not.",
+    "id": "10150596813062584_1161362687239886"
+  }, {
+    "created_time": "2016-09-23T01:31:58+0000",
+    "from": {
+      "name": "Justin Ma",
+      "id": "1075417732471708"
+    },
+    "message": "There is great demand",
+    "id": "10150596813062584_1107391902647355"
+  }, {
+    "created_time": "2016-09-23T01:32:40+0000",
+    "from": {
+      "name": "Jeffrey Lin",
+      "id": "10152514646028519"
+    },
+    "message": "actually i would have to write it for both iphone and android since people have to download the respective app",
+    "id": "10150596813062584_717520278405767"
+  }, {
+    "created_time": "2016-09-23T01:33:04+0000",
+    "from": {
+      "name": "Jeffrey Lin",
+      "id": "10152514646028519"
+    },
+    "message": "Tampa Hackathon Winter Break",
+    "id": "10150596813062584_1177215808988202"
+  }, {
+    "created_time": "2016-09-23T01:33:22+0000",
+    "from": {
+      "name": "Jeffrey Lin",
+      "id": "10152514646028519"
+    },
+    "message": "Your dad will be project lead since I will have no  idea what I'm  doing",
+    "id": "10150596813062584_542674032597652"
+  }, {
+    "created_time": "2016-09-23T01:37:27+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": ".",
+    "id": "10150596813062584_542675299264192"
+  }, {
+    "created_time": "2016-09-23T03:00:08+0000",
+    "from": {
+      "name": "Louie Cai",
+      "id": "10152486798487584"
+    },
+    "message": "Congrats on getting the 3000th comment Jeffrey. As your reward you can have the 3000th comment",
+    "id": "10150596813062584_1095874123836432"
+  }, {
+    "created_time": "2016-09-23T03:01:56+0000",
+    "from": {
+      "name": "Jeffrey Lin",
+      "id": "10152514646028519"
+    },
+    "message": "Thank you so much Louis. I will make the most out of it.",
+    "id": "10150596813062584_1095874770503034"
+  }, {
+    "created_time": "2016-09-23T03:04:01+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Bam. Now get out of my thread.",
+    "id": "10150596813062584_542697515928637"
+  }, {
+    "created_time": "2016-09-23T03:25:28+0000",
+    "from": {
+      "name": "Justin Ma",
+      "id": "1075417732471708"
+    },
+    "message": "Ping",
+    "id": "10150596813062584_1095885173835327"
+  }, {
+    "created_time": "2016-09-23T03:32:50+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "",
+    "id": "10150596813062584_1107477479305464"
+  }, {
+    "created_time": "2016-09-23T03:32:59+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "comment",
+    "id": "10150596813062584_542704929261229"
+  }, {
+    "created_time": "2016-09-23T03:36:25+0000",
+    "from": {
+      "name": "Jeffrey Lin",
+      "id": "10152514646028519"
+    },
+    "message": "",
+    "id": "10150596813062584_1161462457229909"
+  }, {
+    "created_time": "2016-09-23T03:36:37+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "No",
+    "id": "10150596813062584_717558638401931"
+  }, {
+    "created_time": "2016-09-23T03:36:49+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "",
+    "id": "10150596813062584_1177289865647463"
+  }, {
+    "created_time": "2016-09-23T03:37:14+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "That's p cute",
+    "id": "10150596813062584_717558781735250"
+  }, {
+    "created_time": "2016-09-23T03:37:36+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "",
+    "id": "10150596813062584_717558845068577"
+  }, {
+    "created_time": "2016-09-23T04:49:32+0000",
+    "from": {
+      "name": "Louie Cai",
+      "id": "10152486798487584"
+    },
+    "message": "Good night",
+    "id": "10150596813062584_542735565924832"
+  }, {
+    "created_time": "2016-09-23T05:00:48+0000",
+    "from": {
+      "name": "Camille Marguerite",
+      "id": "10205194130029743"
+    },
+    "message": "Night",
+    "id": "10150596813062584_1177326638977119"
+  }, {
+    "created_time": "2016-09-23T06:01:35+0000",
+    "from": {
+      "name": "Nicholas Christodoulides",
+      "id": "10206564776226483"
+    },
+    "message": "fuck you Andy Cai",
+    "id": "10150596813062584_717597365064725"
+  }, {
+    "created_time": "2016-09-23T06:02:15+0000",
+    "from": {
+      "name": "Andy Cai",
+      "id": "790527574327500"
+    },
+    "message": "wow right to the adhominem",
+    "id": "10150596813062584_1107567439296468"
+  }, {
+    "created_time": "2016-09-23T06:04:31+0000",
+    "from": {
+      "name": "Nicholas Christodoulides",
+      "id": "10206564776226483"
+    },
+    "message": "",
+    "id": "10150596813062584_1107568109296401"
+  }, {
+    "created_time": "2016-09-23T14:12:28+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Lol",
+    "id": "10150596813062584_1161807023862119"
+  }, {
+    "created_time": "2016-09-24T15:46:23+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "Lol",
+    "id": "10150596813062584_1097264737030704"
+  }, {
+    "created_time": "2016-09-24T15:47:06+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "loL",
+    "id": "10150596813062584_543362242528831"
+  }, {
+    "created_time": "2016-09-24T15:47:22+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "lOl",
+    "id": "10150596813062584_718346161656512"
+  }, {
+    "created_time": "2016-09-24T15:47:30+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "LoL",
+    "id": "10150596813062584_718346191656509"
+  }, {
+    "created_time": "2016-09-24T15:47:43+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "LOl",
+    "id": "10150596813062584_543362432528812"
+  }, {
+    "created_time": "2016-09-24T16:04:54+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "lOL",
+    "id": "10150596813062584_1097276563696188"
+  }, {
+    "created_time": "2016-09-24T17:37:38+0000",
+    "from": {
+      "name": "Andy Cai",
+      "id": "790527574327500"
+    },
+    "message": "ye XD",
+    "id": "10150596813062584_1178673718842411"
+  }, {
+    "created_time": "2016-09-24T18:17:41+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "LOL",
+    "id": "10150596813062584_543407569190965"
+  }, {
+    "created_time": "2016-09-24T18:46:39+0000",
+    "from": {
+      "name": "Louie Cai",
+      "id": "10152486798487584"
+    },
+    "message": "Lol :)",
+    "id": "10150596813062584_1097374883686356"
+  }, {
+    "created_time": "2016-09-24T18:48:18+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Ecks dee",
+    "id": "10150596813062584_1162857403757081"
+  }, {
+    "created_time": "2016-09-24T18:52:41+0000",
+    "from": {
+      "name": "Joshua DeGaffe",
+      "id": "1579264068961530"
+    },
+    "message": "My name is Unchained and I approve this message. Make America Unchained again.",
+    "id": "10150596813062584_1108896392496906"
+  }, {
+    "created_time": "2016-09-24T18:54:28+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "lol",
+    "id": "10150596813062584_1162861020423386"
+  }, {
+    "created_time": "2016-09-24T19:01:46+0000",
+    "from": {
+      "name": "Jose-Miguel Rosillo-Cevallos",
+      "id": "10154073419220203"
+    },
+    "message": ".",
+    "id": "10150596813062584_543419422523113"
+  }, {
+    "created_time": "2016-09-24T19:29:44+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "Ahh the . Such s classic.",
+    "id": "10150596813062584_1097398860350625"
+  }, {
+    "created_time": "2016-09-24T19:29:49+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": ".",
+    "id": "10150596813062584_718447084979753"
+  }, {
+    "created_time": "2016-09-24T19:29:53+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": ".",
+    "id": "10150596813062584_543425215855867"
+  }, {
+    "created_time": "2016-09-24T19:29:55+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": ".",
+    "id": "10150596813062584_1097398933683951"
+  }, {
+    "created_time": "2016-09-24T19:30:00+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "",
+    "id": "10150596813062584_1178752668834516"
+  }, {
+    "created_time": "2016-09-25T16:48:15+0000",
+    "from": {
+      "name": "Louie Cai",
+      "id": "10152486798487584"
+    },
+    "message": "This status is closed. I am the winner",
+    "id": "10150596813062584_1098202896936888"
+  }, {
+    "created_time": "2016-09-25T16:50:27+0000",
+    "from": {
+      "name": "Justin Ma",
+      "id": "1075417732471708"
+    },
+    "message": "Ping",
+    "id": "10150596813062584_543784445819944"
+  }, {
+    "created_time": "2016-09-25T17:33:34+0000",
+    "from": {
+      "name": "Daniel Ming-Hai Lan",
+      "id": "10152631026661094"
+    },
+    "message": "= 93 msec",
+    "id": "10150596813062584_718956501595478"
+  }, {
+    "created_time": "2016-09-25T17:54:20+0000",
+    "from": {
+      "name": "Antonio Garcia",
+      "id": "10205111047768003"
+    },
+    "message": "No your not Louis don't let my memes be dreams",
+    "id": "10150596813062584_718963638261431"
+  }, {
+    "created_time": "2016-09-25T17:55:00+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "",
+    "id": "10150596813062584_718963938261401"
+  }, {
+    "created_time": "2016-09-25T21:51:41+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "",
+    "id": "10150596813062584_1179753548734428"
+  }, {
+    "created_time": "2016-09-25T21:51:43+0000",
+    "from": {
+      "name": "Louie Cai",
+      "id": "10152486798487584"
+    },
+    "message": "Please respect my wishes and do not comment anymore",
+    "id": "10150596813062584_1109984229054789"
+  }, {
+    "created_time": "2016-09-25T21:52:00+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "",
+    "id": "10150596813062584_1179753858734397"
+  }, {
+    "created_time": "2016-09-25T21:52:06+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "",
+    "id": "10150596813062584_1179753915401058"
+  }, {
+    "created_time": "2016-09-25T21:52:08+0000",
+    "from": {
+      "name": "Louie Cai",
+      "id": "10152486798487584"
+    },
+    "message": "Thanks",
+    "id": "10150596813062584_719075921583536"
+  }, {
+    "created_time": "2016-09-25T21:52:13+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "",
+    "id": "10150596813062584_1098423060248205"
+  }, {
+    "created_time": "2016-09-25T21:52:30+0000",
+    "from": {
+      "name": "Louie Cai",
+      "id": "10152486798487584"
+    },
+    "message": "Taylor this status is closed",
+    "id": "10150596813062584_1109987232387822"
+  }, {
+    "created_time": "2016-09-25T21:52:37+0000",
+    "from": {
+      "name": "Louie Cai",
+      "id": "10152486798487584"
+    },
+    "message": "Please stop",
+    "id": "10150596813062584_543879535810435"
+  }, {
+    "created_time": "2016-09-25T22:01:49+0000",
+    "from": {
+      "name": "Louie Cai",
+      "id": "10152486798487584"
+    },
+    "message": "Heh",
+    "id": "10150596813062584_1179761442066972"
+  }, {
+    "created_time": "2016-09-25T22:18:48+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "",
+    "id": "10150596813062584_543884825809906"
+  }, {
+    "created_time": "2016-09-25T22:19:09+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "",
+    "id": "10150596813062584_1179773235399126"
+  }, {
+    "created_time": "2016-09-25T22:19:11+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "",
+    "id": "10150596813062584_1110008782385667"
+  }, {
+    "created_time": "2016-09-25T22:25:13+0000",
+    "from": {
+      "name": "Joshua DeGaffe",
+      "id": "1579264068961530"
+    },
+    "message": "",
+    "id": "10150596813062584_543885715809817"
+  }, {
+    "created_time": "2016-09-25T23:26:30+0000",
+    "from": {
+      "name": "Johnnie Yeung",
+      "id": "10203440734073636"
+    },
+    "message": "..",
+    "id": "10150596813062584_1098471683576676"
+  }, {
+    "created_time": "2016-09-26T00:24:53+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "",
+    "id": "10150596813062584_1163935773649244"
+  }, {
+    "created_time": "2016-09-26T01:12:44+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "I've been gone a little while.",
+    "id": "10150596813062584_1110128102373735"
+  }, {
+    "created_time": "2016-09-26T01:20:27+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "Boo you're no fun Jacob",
+    "id": "10150596813062584_1163980666978088"
+  }, {
+    "created_time": "2016-09-26T02:43:45+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": ":^)",
+    "id": "10150596813062584_543952872469768"
+  }, {
+    "created_time": "2016-09-26T03:02:44+0000",
+    "from": {
+      "name": "Louie Cai",
+      "id": "10152486798487584"
+    },
+    "message": "Disrespect",
+    "id": "10150596813062584_1179936332049483"
+  }, {
+    "created_time": "2016-09-26T03:03:02+0000",
+    "from": {
+      "name": "Joshua DeGaffe",
+      "id": "1579264068961530"
+    },
+    "message": "Dos Cardenas",
+    "id": "10150596813062584_1098595313564313"
+  }, {
+    "created_time": "2016-09-26T03:03:05+0000",
+    "from": {
+      "name": "Joshua DeGaffe",
+      "id": "1579264068961530"
+    },
+    "message": "Close to genius",
+    "id": "10150596813062584_1110190219034190"
+  }, {
+    "created_time": "2016-09-26T03:03:07+0000",
+    "from": {
+      "name": "Joshua DeGaffe",
+      "id": "1579264068961530"
+    },
+    "message": "sold out arenas",
+    "id": "10150596813062584_719203018237493"
+  }, {
+    "created_time": "2016-09-26T04:55:45+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "Samosas",
+    "id": "10150596813062584_719249744899487"
+  }, {
+    "created_time": "2016-09-26T11:27:01+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Semoyeds",
+    "id": "10150596813062584_1110440099009202"
+  }, {
+    "created_time": "2016-09-26T15:55:53+0000",
+    "from": {
+      "name": "Louie Cai",
+      "id": "10152486798487584"
+    },
+    "message": "Semoyour",
+    "id": "10150596813062584_1164528110256677"
+  }, {
+    "created_time": "2016-09-26T15:56:24+0000",
+    "from": {
+      "name": "Joshua DeGaffe",
+      "id": "1579264068961530"
+    },
+    "message": "Cymbalta",
+    "id": "10150596813062584_1180371632005953"
+  }, {
+    "created_time": "2016-09-26T15:56:34+0000",
+    "from": {
+      "name": "Louie Cai",
+      "id": "10152486798487584"
+    },
+    "message": "I wonder if someone could make a script and analyze who's held the longest",
+    "id": "10150596813062584_1164528843589937"
+  }, {
+    "created_time": "2016-09-26T16:05:08+0000",
+    "from": {
+      "name": "Justin Ma",
+      "id": "1075417732471708"
+    },
+    "message": "Jeffrey- more jobs",
+    "id": "10150596813062584_1180377015338748"
+  }, {
+    "created_time": "2016-09-26T16:06:27+0000",
+    "from": {
+      "name": "Louie Cai",
+      "id": "10152486798487584"
+    },
+    "message": "I wonder if you can download the status metadata",
+    "id": "10150596813062584_1180377762005340"
+  }, {
+    "created_time": "2016-09-26T16:28:23+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "I've held it the longest. I've held it collectively for over a year.",
+    "id": "10150596813062584_1110722632314282"
+  }, {
+    "created_time": "2016-09-26T16:31:42+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Last two streaks have been from August 30th, 2015 - May 1st, 2016 and May 11th, 2016 - September 17th, 2016. I don't know if I held it for any other long streaks, but those are the last two.",
+    "id": "10150596813062584_719520771539051"
+  }, {
+    "created_time": "2016-09-26T17:21:54+0000",
+    "from": {
+      "name": "Brent McKenna",
+      "id": "10205781776797695"
+    },
+    "message": "I can't believe this status is still alive",
+    "id": "10150596813062584_719547234869738"
+  }, {
+    "created_time": "2016-09-26T17:39:45+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": ".",
+    "id": "10150596813062584_1099083716848806"
+  }, {
+    "created_time": "2016-09-27T13:19:26+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "I feel like no one wins",
+    "id": "10150596813062584_1165265333516288"
+  }, {
+    "created_time": "2016-09-27T13:42:21+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": ".",
+    "id": "10150596813062584_1111440778909134"
+  }, {
+    "created_time": "2016-09-27T13:45:43+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "I lose",
+    "id": "10150596813062584_1111443035575575"
+  }, {
+    "created_time": "2016-09-27T13:46:12+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": ".",
+    "id": "10150596813062584_1165281323514689"
+  }, {
+    "created_time": "2016-09-27T13:46:24+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": ".",
+    "id": "10150596813062584_1111443308908881"
+  }, {
+    "created_time": "2016-09-27T13:46:43+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "It's too early for this back and forth hubbub",
+    "id": "10150596813062584_720039611487167"
+  }, {
+    "created_time": "2016-09-27T13:50:10+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "I've been awake for 3+ hours, so I'm good.",
+    "id": "10150596813062584_1111445568908655"
+  }, {
+    "created_time": "2016-09-29T16:23:48+0000",
+    "from": {
+      "name": "Andy Cai",
+      "id": "790527574327500"
+    },
+    "message": "bump",
+    "id": "10150596813062584_1101511363272708"
+  }, {
+    "created_time": "2016-09-29T16:37:20+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Bring Up My Post ",
+    "id": "10150596813062584_1182982205078229"
+  }, {
+    "created_time": "2016-09-29T17:34:37+0000",
+    "from": {
+      "name": "Antonio Garcia",
+      "id": "10205111047768003"
+    },
+    "message": ".",
+    "id": "10150596813062584_721224748035320"
+  }, {
+    "created_time": "2016-09-29T17:35:17+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "..",
+    "id": "10150596813062584_1101549773268867"
+  }, {
+    "created_time": "2016-09-29T17:35:25+0000",
+    "from": {
+      "name": "Antonio Garcia",
+      "id": "10205111047768003"
+    },
+    "message": "...",
+    "id": "10150596813062584_1101549809935530"
+  }, {
+    "created_time": "2016-09-29T17:35:29+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "....",
+    "id": "10150596813062584_1183015441741572"
+  }, {
+    "created_time": "2016-09-29T17:35:32+0000",
+    "from": {
+      "name": "Antonio Garcia",
+      "id": "10205111047768003"
+    },
+    "message": ".",
+    "id": "10150596813062584_1183015451741571"
+  }, {
+    "created_time": "2016-09-29T17:35:37+0000",
+    "from": {
+      "name": "Antonio Garcia",
+      "id": "10205111047768003"
+    },
+    "message": ".",
+    "id": "10150596813062584_1101549873268857"
+  }, {
+    "created_time": "2016-09-29T17:35:39+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": ".",
+    "id": "10150596813062584_1101549893268855"
+  }, {
+    "created_time": "2016-09-29T17:35:40+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": ".",
+    "id": "10150596813062584_1101549903268854"
+  }, {
+    "created_time": "2016-09-29T17:35:40+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": ".",
+    "id": "10150596813062584_1113252472061298"
+  }, {
+    "created_time": "2016-09-29T17:35:40+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": ".",
+    "id": "10150596813062584_1167150499994438"
+  }, {
+    "created_time": "2016-09-29T17:35:40+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": ".",
+    "id": "10150596813062584_1167150509994437"
+  }, {
+    "created_time": "2016-09-29T17:35:43+0000",
+    "from": {
+      "name": "Antonio Garcia",
+      "id": "10205111047768003"
+    },
+    "message": ".",
+    "id": "10150596813062584_1101549916602186"
+  }, {
+    "created_time": "2016-09-29T17:35:49+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "..",
+    "id": "10150596813062584_1113252598727952"
+  }, {
+    "created_time": "2016-09-29T17:36:12+0000",
+    "from": {
+      "name": "Antonio Garcia",
+      "id": "10205111047768003"
+    },
+    "message": ".",
+    "id": "10150596813062584_721225434701918"
+  }, {
+    "created_time": "2016-09-29T17:36:19+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": ".",
+    "id": "10150596813062584_1101550303268814"
+  }, {
+    "created_time": "2016-09-29T17:45:40+0000",
+    "from": {
+      "name": "Antonio Garcia",
+      "id": "10205111047768003"
+    },
+    "message": ".",
+    "id": "10150596813062584_1167156626660492"
+  }, {
+    "created_time": "2016-09-29T17:45:57+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": ".",
+    "id": "10150596813062584_545370972327958"
+  }, {
+    "created_time": "2016-09-29T17:46:36+0000",
+    "from": {
+      "name": "Antonio Garcia",
+      "id": "10205111047768003"
+    },
+    "message": "Im gonna out live you jacob its inevitable",
+    "id": "10150596813062584_1101566909933820"
+  }, {
+    "created_time": "2016-09-29T18:00:46+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": ".",
+    "id": "10150596813062584_1167169689992519"
+  }, {
+    "created_time": "2016-09-29T18:01:53+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "Lol",
+    "id": "10150596813062584_721238098033985"
+  }, {
+    "created_time": "2016-09-29T18:05:23+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": ".",
+    "id": "10150596813062584_1113274138725798"
+  }, {
+    "created_time": "2016-09-29T18:13:18+0000",
+    "from": {
+      "name": "Antonio Garcia",
+      "id": "10205111047768003"
+    },
+    "message": "",
+    "id": "10150596813062584_545377515660637"
+  }, {
+    "created_time": "2016-09-29T18:20:00+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": ".",
+    "id": "10150596813062584_545381855660203"
+  }, {
+    "created_time": "2016-09-30T01:51:55+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": ".",
+    "id": "10150596813062584_1101889119901599"
+  }, {
+    "created_time": "2016-09-30T01:54:45+0000",
+    "from": {
+      "name": "Nicholas Christodoulides",
+      "id": "10206564776226483"
+    },
+    "message": "All lives matter",
+    "id": "10150596813062584_1183405845035865"
+  }, {
+    "created_time": "2016-09-30T01:55:13+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "But mine matters the most",
+    "id": "10150596813062584_1113555048697707"
+  }, {
+    "created_time": "2016-09-30T01:58:05+0000",
+    "from": {
+      "name": "Antonio Garcia",
+      "id": "10205111047768003"
+    },
+    "message": "luke cage comes out on netflix in 5 hours 3 minutes ,,,",
+    "id": "10150596813062584_1183407398369043"
+  }, {
+    "created_time": "2016-09-30T01:58:07+0000",
+    "from": {
+      "name": "Antonio Garcia",
+      "id": "10205111047768003"
+    },
+    "message": "...",
+    "id": "10150596813062584_545519572313098"
+  }, {
+    "created_time": "2016-09-30T02:00:47+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "I'm at Disney tho",
+    "id": "10150596813062584_1183409278368855"
+  }, {
+    "created_time": "2016-09-30T02:01:05+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "You know what would keep people from checking here? Spoilers.",
+    "id": "10150596813062584_1167464306629724"
+  }, {
+    "created_time": "2016-09-30T02:01:10+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "That's how you win.",
+    "id": "10150596813062584_1101895449900966"
+  }, {
+    "created_time": "2016-09-30T02:12:05+0000",
+    "from": {
+      "name": "Antonio Garcia",
+      "id": "10205111047768003"
+    },
+    "message": "oh shit jacob you just opened up a can of worms... where shall i begin. first let me go on all your accounts and see what you guys like >:D",
+    "id": "10150596813062584_1113563255363553"
+  }, {
+    "created_time": "2016-09-30T02:13:23+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Dumbledore dies",
+    "id": "10150596813062584_1167473046628850"
+  }, {
+    "created_time": "2016-09-30T02:13:24+0000",
+    "from": {
+      "name": "Antonio Garcia",
+      "id": "10205111047768003"
+    },
+    "message": "leme just start it off slow digimon dies as a franchise lol XD",
+    "id": "10150596813062584_721427174681744"
+  }, {
+    "created_time": "2016-09-30T02:13:40+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Sephiroth kills Aerith",
+    "id": "10150596813062584_545522212312834"
+  }, {
+    "created_time": "2016-09-30T02:13:48+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Jon Snow lives",
+    "id": "10150596813062584_1101902343233610"
+  }, {
+    "created_time": "2016-09-30T02:14:23+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "I'm caught up with all my shows, movies, and games.",
+    "id": "10150596813062584_1167474683295353"
+  }, {
+    "created_time": "2016-09-30T02:14:36+0000",
+    "from": {
+      "name": "Antonio Garcia",
+      "id": "10205111047768003"
+    },
+    "message": "ill find something somehow",
+    "id": "10150596813062584_1113564455363433"
+  }, {
+    "created_time": "2016-09-30T02:14:58+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": ";-)",
+    "id": "10150596813062584_1101902746566903"
+  }, {
+    "created_time": "2016-09-30T12:23:50+0000",
+    "from": {
+      "name": "Louie Cai",
+      "id": "10152486798487584"
+    },
+    "message": "Spoiled what the heck",
+    "id": "10150596813062584_1167854596590695"
+  }, {
+    "created_time": "2016-09-30T13:10:18+0000",
+    "from": {
+      "name": "Cesar Marino",
+      "id": "10153354539198480"
+    },
+    "message": "This is amazing",
+    "id": "10150596813062584_1183779501665166"
+  }, {
+    "created_time": "2016-09-30T15:01:28+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": ":-P",
+    "id": "10150596813062584_1183855498324233"
+  }, {
+    "created_time": "2016-09-30T21:50:06+0000",
+    "from": {
+      "name": "Josh Jue",
+      "id": "10152497181427129"
+    },
+    "message": "Genius. Just genius.",
+    "id": "10150596813062584_545840322281023"
+  }, {
+    "created_time": "2016-09-30T21:50:45+0000",
+    "from": {
+      "name": "Josh Jue",
+      "id": "10152497181427129"
+    },
+    "message": "Almost as genius - turning off notifications for this post after I commented",
+    "id": "10150596813062584_1168228979886590"
+  }, {
+    "created_time": "2016-09-30T22:49:32+0000",
+    "from": {
+      "name": "Joshua DeGaffe",
+      "id": "1579264068961530"
+    },
+    "message": "Josh Jue did you get this one?",
+    "id": "10150596813062584_545856795612709"
+  }, {
+    "created_time": "2016-09-30T23:46:40+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": ".",
+    "id": "10150596813062584_1114353881951157"
+  }, {
+    "created_time": "2016-10-01T14:29:08+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "Snape kills Ron",
+    "id": "10150596813062584_1168816166494538"
+  }, {
+    "created_time": "2016-10-01T14:29:21+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": ":O",
+    "id": "10150596813062584_1103197619770749"
+  }, {
+    "created_time": "2016-10-01T14:30:02+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "Vader is Luke's transgender mother.",
+    "id": "10150596813062584_1103197979770713"
+  }, {
+    "created_time": "2016-10-01T14:41:31+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Stahp",
+    "id": "10150596813062584_1114902641896281"
+  }, {
+    "created_time": "2016-10-01T14:48:20+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "Steve Buscemi is the killer in Usual Suspects.",
+    "id": "10150596813062584_1168827526493402"
+  }, {
+    "created_time": "2016-10-01T16:07:35+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Stranger Things is strange.",
+    "id": "10150596813062584_1103264629764048"
+  }, {
+    "created_time": "2016-12-14T19:03:03+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "Fork you Jake.",
+    "id": "10150596813062584_1248289458547208"
+  }, {
+    "created_time": "2016-12-14T19:03:17+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "NUUUUUUUUUUUU",
+    "id": "10150596813062584_1248289608547193"
+  }, {
+    "created_time": "2016-12-14T19:03:37+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "You big fat booty",
+    "id": "10150596813062584_1178562558900921"
+  }, {
+    "created_time": "2016-12-14T19:04:16+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Well, my aggregate time held is the highest, so I'm still winning :P",
+    "id": "10150596813062584_579987398866315"
+  }, {
+    "created_time": "2016-12-14T19:05:26+0000",
+    "from": {
+      "name": "Samantha Field",
+      "id": "10152877294292905"
+    },
+    "message": "Why is this still a thing!?!?!",
+    "id": "10150596813062584_1178564842234026"
+  }, {
+    "created_time": "2016-12-14T19:05:47+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Blame it on Taylor. I was winning, and he necro'd it :P",
+    "id": "10150596813062584_773005459523915"
+  }, {
+    "created_time": "2016-12-14T19:07:34+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "Aggregate time means nothing.",
+    "id": "10150596813062584_1190672870985924"
+  }, {
+    "created_time": "2016-12-14T19:07:44+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "The rules are simple",
+    "id": "10150596813062584_773006059523855"
+  }, {
+    "created_time": "2016-12-14T19:07:49+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "Last comment wins.",
+    "id": "10150596813062584_579988702199518"
+  }, {
+    "created_time": "2016-12-14T19:08:07+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Next person who comments is the cutest.",
+    "id": "10150596813062584_579989305532791"
+  }, {
+    "created_time": "2016-12-14T19:08:09+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Who me?",
+    "id": "10150596813062584_1190673084319236"
+  }, {
+    "created_time": "2016-12-14T19:08:12+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Aww",
+    "id": "10150596813062584_1178567735567070"
+  }, {
+    "created_time": "2016-12-14T19:11:41+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "Lol are you the \"next person\" to comment? Seems like the same person who just posted the\"next comment\" :) Thanks btw ",
+    "id": "10150596813062584_579990088866046"
+  }, {
+    "created_time": "2016-12-14T19:11:49+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "",
+    "id": "10150596813062584_773006956190432"
+  }, {
+    "created_time": "2016-12-14T19:11:55+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "",
+    "id": "10150596813062584_1178569532233557"
+  }, {
+    "created_time": "2016-12-14T19:11:56+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "",
+    "id": "10150596813062584_1190676040985607"
+  }, {
+    "created_time": "2016-12-14T19:12:02+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "Just let me win.",
+    "id": "10150596813062584_773006976190430"
+  }, {
+    "created_time": "2016-12-14T19:12:08+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "You'll feel better.",
+    "id": "10150596813062584_579990165532705"
+  }, {
+    "created_time": "2016-12-14T19:12:22+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Nah",
+    "id": "10150596813062584_1256220034421112"
+  }, {
+    "created_time": "2016-12-14T19:13:10+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "I'll be back next Monday.",
+    "id": "10150596813062584_1190676447652233"
+  }, {
+    "created_time": "2016-12-14T19:17:25+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Welp, see you next monday",
+    "id": "10150596813062584_773008796190248"
+  }, {
+    "created_time": "2016-12-14T20:09:02+0000",
+    "from": {
+      "name": "Louie Cai",
+      "id": "10152486798487584"
+    },
+    "message": "jake you always win",
+    "id": "10150596813062584_1190707327649145"
+  }, {
+    "created_time": "2016-12-14T20:09:03+0000",
+    "from": {
+      "name": "Louie Cai",
+      "id": "10152486798487584"
+    },
+    "message": "wow",
+    "id": "10150596813062584_1256293971080385"
+  }, {
+    "created_time": "2016-12-14T20:19:34+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "lol",
+    "id": "10150596813062584_1256298691079913"
+  }, {
+    "created_time": "2016-12-14T20:31:45+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "Don't encourage him Louis.",
+    "id": "10150596813062584_1256305351079247"
+  }, {
+    "created_time": "2016-12-14T20:43:26+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "AHEM. SEE YOU NEXT MONDAY, TAYLOR.",
+    "id": "10150596813062584_773048956186232"
+  }, {
+    "created_time": "2016-12-14T21:22:54+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "I'm procrastinating. Like you, probably.",
+    "id": "10150596813062584_1256406201069162"
+  }, {
+    "created_time": "2016-12-14T21:23:07+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Procrastinating what?",
+    "id": "10150596813062584_1256406804402435"
+  }, {
+    "created_time": "2016-12-14T21:25:49+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "Job applications/life changes lol.",
+    "id": "10150596813062584_580038195527902"
+  }, {
+    "created_time": "2016-12-14T21:26:06+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Ahh, nah. I'm just at work.",
+    "id": "10150596813062584_1178683098888867"
+  }, {
+    "created_time": "2016-12-14T21:26:32+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "All the professors are gone, so nothing really to do.",
+    "id": "10150596813062584_1248396578536496"
+  }, {
+    "created_time": "2016-12-14T21:50:50+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "Watch westworld.",
+    "id": "10150596813062584_580048135526908"
+  }, {
+    "created_time": "2016-12-14T21:50:56+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "Or stranger things.",
+    "id": "10150596813062584_1256428747733574"
+  }, {
+    "created_time": "2016-12-14T22:04:10+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Already have",
+    "id": "10150596813062584_773091196182008"
+  }, {
+    "created_time": "2016-12-14T22:05:59+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "Well how about GOT? It's great...",
+    "id": "10150596813062584_773091949515266"
+  }, {
+    "created_time": "2016-12-14T22:06:11+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "Or Seven Deadly Sins.",
+    "id": "10150596813062584_1248419278534226"
+  }, {
+    "created_time": "2016-12-14T22:06:20+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Seen both of those.",
+    "id": "10150596813062584_580051842193204"
+  }, {
+    "created_time": "2016-12-14T22:07:02+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "Orange is the New Black?",
+    "id": "10150596813062584_773092306181897"
+  }, {
+    "created_time": "2016-12-14T22:07:58+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "Ooo or Creed.",
+    "id": "10150596813062584_1256449234398192"
+  }, {
+    "created_time": "2016-12-14T22:08:09+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "I have Luke Cage in my queue. Currently keeping up with Jojo's Bizarre Adventure, Dragon Ball Super, Yuri on Ice, and Sound! Euphonium.",
+    "id": "10150596813062584_580052142193174"
+  }, {
+    "created_time": "2016-12-14T22:08:17+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "I'm sure you've seen Doctor Strange.",
+    "id": "10150596813062584_580052148859840"
+  }, {
+    "created_time": "2016-12-14T22:08:23+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Also have one episode left of Flash.",
+    "id": "10150596813062584_1248423185200502"
+  }, {
+    "created_time": "2016-12-14T22:08:52+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "Your Lie in April. OMG you'd actually love that probably.",
+    "id": "10150596813062584_1190815967638281"
+  }, {
+    "created_time": "2016-12-14T22:08:59+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "I cried my eyes out.",
+    "id": "10150596813062584_1248423505200470"
+  }, {
+    "created_time": "2016-12-14T22:09:27+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "so good.. omg..",
+    "id": "10150596813062584_1178722662218244"
+  }, {
+    "created_time": "2016-12-14T22:09:31+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "uhh what else..",
+    "id": "10150596813062584_1256451301064652"
+  }, {
+    "created_time": "2016-12-14T22:09:54+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "sausage party was weird..",
+    "id": "10150596813062584_1248424195200401"
+  }, {
+    "created_time": "2016-12-14T22:10:09+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Yuri on Ice is great if you haven't seen it. I'm watching the dub, but the sub is pretty good. It's on Funimation's website.",
+    "id": "10150596813062584_773093336181794"
+  }, {
+    "created_time": "2016-12-14T22:10:35+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "what's it about?",
+    "id": "10150596813062584_1178723262218184"
+  }, {
+    "created_time": "2016-12-14T22:10:57+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "also the new xmen and startrek are good.",
+    "id": "10150596813062584_1178723422218168"
+  }, {
+    "created_time": "2016-12-14T22:11:07+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Anime about ice skating. Also, seen all those.",
+    "id": "10150596813062584_1256453014397814"
+  }, {
+    "created_time": "2016-12-14T22:11:53+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Except Sausage Party. I don't watch things Seth Rogan is involved in.",
+    "id": "10150596813062584_580053468859708"
+  }, {
+    "created_time": "2016-12-14T22:15:05+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "Uhh I'm almost caught up on Walking Dead.",
+    "id": "10150596813062584_1256455507730898"
+  }, {
+    "created_time": "2016-12-14T22:15:14+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "I'm having a brain fart about other things I've seen.",
+    "id": "10150596813062584_580054415526280"
+  }, {
+    "created_time": "2016-12-14T22:15:23+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "I watched the Tree of Life.",
+    "id": "10150596813062584_1256455704397545"
+  }, {
+    "created_time": "2016-12-14T22:15:31+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "It's an epic film but not a super amazing movie.",
+    "id": "10150596813062584_1178731612217349"
+  }, {
+    "created_time": "2016-12-14T22:15:58+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Have you watched Kubo?",
+    "id": "10150596813062584_1256456187730830"
+  }, {
+    "created_time": "2016-12-14T22:16:36+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "I stopped the walking dead a couple of years ago.",
+    "id": "10150596813062584_1178732758883901"
+  }, {
+    "created_time": "2016-12-14T22:17:11+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "Omg yeah Kubo was great!",
+    "id": "10150596813062584_1248427331866754"
+  }, {
+    "created_time": "2016-12-14T22:17:49+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "I'm looking forward to Passengers next week and Star Wars this week.",
+    "id": "10150596813062584_1178733815550462"
+  }, {
+    "created_time": "2016-12-14T22:56:03+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "Yaaasss Rogue One is life!!",
+    "id": "10150596813062584_1256478324395283"
+  }, {
+    "created_time": "2016-12-14T23:18:54+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": ":-)",
+    "id": "10150596813062584_1178785985545245"
+  }, {
+    "created_time": "2016-12-15T00:01:45+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": ":)",
+    "id": "10150596813062584_1190898837629994"
+  }, {
+    "created_time": "2016-12-15T00:11:12+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": ".",
+    "id": "10150596813062584_1190903307629547"
+  }, {
+    "created_time": "2016-12-15T00:13:45+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": ",",
+    "id": "10150596813062584_1256585551051227"
+  }, {
+    "created_time": "2016-12-15T01:17:38+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": ".",
+    "id": "10150596813062584_580107928854262"
+  }, {
+    "created_time": "2016-12-15T01:19:48+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": ":",
+    "id": "10150596813062584_1178872778869899"
+  }, {
+    "created_time": "2016-12-15T08:06:03+0000",
+    "from": {
+      "name": "Daniel Ming-Hai Lan",
+      "id": "10152631026661094"
+    },
+    "message": ";",
+    "id": "10150596813062584_1256970907679358"
+  }, {
+    "created_time": "2016-12-15T12:17:05+0000",
+    "from": {
+      "name": "Justin Ma",
+      "id": "1075417732471708"
+    },
+    "message": "PING",
+    "id": "10150596813062584_773509732806821"
+  }, {
+    "created_time": "2016-12-15T12:45:50+0000",
+    "from": {
+      "name": "Andy Cai",
+      "id": "790527574327500"
+    },
+    "message": "PONG",
+    "id": "10150596813062584_773522862805508"
+  }, {
+    "created_time": "2016-12-15T12:46:34+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Dot",
+    "id": "10150596813062584_773523092805485"
+  }, {
+    "created_time": "2016-12-15T12:53:05+0000",
+    "from": {
+      "name": "Jane Cooper",
+      "id": "10204999816815837"
+    },
+    "message": "\"Last comment\"",
+    "id": "10150596813062584_1248930891816398"
+  }, {
+    "created_time": "2016-12-15T12:54:43+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "Oh woah welcome to the game Jeane Cooper!",
+    "id": "10150596813062584_1248932315149589"
+  }, {
+    "created_time": "2016-12-15T12:56:06+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Someone has already tried that  😫",
+    "id": "10150596813062584_1191351180918093"
+  }, {
+    "created_time": "2016-12-15T12:59:54+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "haha yeah..\" last comment\"",
+    "id": "10150596813062584_773530076138120"
+  }, {
+    "created_time": "2016-12-15T13:18:44+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "https://www.youtube.com/watch?v=-8dV95vIuwc",
+    "id": "10150596813062584_1179446865479157"
+  }, {
+    "created_time": "2016-12-15T13:20:53+0000",
+    "from": {
+      "name": "Justin Ma",
+      "id": "1075417732471708"
+    },
+    "message": "PING",
+    "id": "10150596813062584_1191363227583555"
+  }, {
+    "created_time": "2016-12-15T13:21:03+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "DONG",
+    "id": "10150596813062584_1248947711814716"
+  }, {
+    "created_time": "2016-12-15T13:31:42+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "Is there a live action Yuri on ice?",
+    "id": "10150596813062584_1248956538480500"
+  }, {
+    "created_time": "2016-12-15T13:34:57+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Well, the characters are based on actual ice skaters... Does that count? lol. Maybe one day it will be, but the show isn't even done yet. Episode 11 just came out, so probably only 1-2 episodes left.",
+    "id": "10150596813062584_580311708833884"
+  }, {
+    "created_time": "2016-12-15T13:35:48+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "It's probably my favorite anime of this year... and I don't even like romance animes all too much.",
+    "id": "10150596813062584_773557172802077"
+  }, {
+    "created_time": "2016-12-15T13:37:19+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "Noted. It's on the list. I still need to finish Sailor Moon Crystal. It's ok but it's pretty. #aesthetic",
+    "id": "10150596813062584_1191375420915669"
+  }, {
+    "created_time": "2016-12-15T13:39:19+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "If you want to use my CrunchyRoll account, I'll send you the account info. It's really nifty because they have \"simulcasts\", which means they air the show the same time it airs in Japan with English subtitles.... Also watch it in HD with no commercials.",
+    "id": "10150596813062584_1191377237582154"
+  }, {
+    "created_time": "2016-12-15T13:39:47+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "HD no commercials? That's cray..",
+    "id": "10150596813062584_773559812801813"
+  }, {
+    "created_time": "2016-12-15T13:40:03+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Ye. Totally worth the $7 a month.",
+    "id": "10150596813062584_1179467518810425"
+  }, {
+    "created_time": "2016-12-15T15:00:13+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "Meh.",
+    "id": "10150596813062584_1249010921808395"
+  }, {
+    "created_time": "2016-12-15T15:02:16+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "I mean, I watch a lot of anime... So it's worth it to me lol. I'm also  impatient, so I watch most of my shows as they air in Japan.",
+    "id": "10150596813062584_1191448287575049"
+  }, {
+    "created_time": "2016-12-15T18:19:07+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "Yeah I feel. The only anime I've ever waited for on a weekly basis is One Punch Man. Which is amazing.",
+    "id": "10150596813062584_1179759035447940"
+  }, {
+    "created_time": "2016-12-15T18:35:06+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Yeah, I haven't finished it yet, but Mumen Rider is my favorite :3",
+    "id": "10150596813062584_1249170198459134"
+  }, {
+    "created_time": "2016-12-15T19:10:04+0000",
+    "from": {
+      "name": "Louie Cai",
+      "id": "10152486798487584"
+    },
+    "message": "Mob psycho 100!!! Watch that",
+    "id": "10150596813062584_1249195888456565"
+  }, {
+    "created_time": "2016-12-15T19:14:41+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "*adds to queue* Thanks :D Also, I need to watch Re: Zero.",
+    "id": "10150596813062584_773723259452135"
+  }, {
+    "created_time": "2016-12-15T19:17:00+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "If that the second code geass?",
+    "id": "10150596813062584_1179793642111146"
+  }, {
+    "created_time": "2016-12-15T19:18:29+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "No, but they're making a new season of Code Geass. Re: Zero is another \"I'm trapped in a video game\" type show. It's almost like Heir Apparent if you read that (it was a Sunshine State book back in the day).",
+    "id": "10150596813062584_1249202455122575"
+  }, {
+    "created_time": "2016-12-15T19:45:30+0000",
+    "from": {
+      "name": "John Li",
+      "id": "10204737974312893"
+    },
+    "message": "Re: Zero is alright, I think it had a huge hype train but I thought it was only okay. Erased is pretty good for thriller / mystery.",
+    "id": "10150596813062584_1257542094288906"
+  }, {
+    "created_time": "2016-12-15T19:53:27+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Erased was great until the ending. Really fizzled imo.",
+    "id": "10150596813062584_1191631880890023"
+  }, {
+    "created_time": "2016-12-15T19:54:53+0000",
+    "from": {
+      "name": "John Li",
+      "id": "10204737974312893"
+    },
+    "message": "^ Agreed.",
+    "id": "10150596813062584_1249231458453008"
+  }, {
+    "created_time": "2016-12-15T20:22:25+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "But I guess that's similar to how the Butterfly Effect ended as well.",
+    "id": "10150596813062584_1249247601784727"
+  }, {
+    "created_time": "2016-12-15T21:29:18+0000",
+    "from": {
+      "name": "Joseph Muoio",
+      "id": "10202958638429200"
+    },
+    "message": "mob psycho is way better than rezero lol",
+    "id": "10150596813062584_1191695310883680"
+  }, {
+    "created_time": "2016-12-15T21:42:04+0000",
+    "from": {
+      "name": "Alice Yu",
+      "id": "10204684864655316"
+    },
+    "message": "Louie you should delete this chain to end the madness",
+    "id": "10150596813062584_773801116111016"
+  }, {
+    "created_time": "2016-12-15T21:52:34+0000",
+    "from": {
+      "name": "Joseph Muoio",
+      "id": "10202958638429200"
+    },
+    "message": "Fuck no don't be a bitch Louie Cai",
+    "id": "10150596813062584_1249296585113162"
+  }, {
+    "created_time": "2016-12-15T21:54:15+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Why would he do that? :-(",
+    "id": "10150596813062584_1179940978763079"
+  }, {
+    "created_time": "2016-12-15T22:05:14+0000",
+    "from": {
+      "name": "Alice Yu",
+      "id": "10204684864655316"
+    },
+    "message": "well idk what notification settings he has but can you imagine getting a ping every time someone comments on here?",
+    "id": "10150596813062584_1257635744279541"
+  }, {
+    "created_time": "2016-12-15T22:05:39+0000",
+    "from": {
+      "name": "John Li",
+      "id": "10204737974312893"
+    },
+    "message": "I turned notifications off here for the most part.",
+    "id": "10150596813062584_1257636010946181"
+  }, {
+    "created_time": "2016-12-15T22:06:26+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "But there's so much history here :3",
+    "id": "10150596813062584_1179945962095914"
+  }, {
+    "created_time": "2016-12-15T22:12:55+0000",
+    "from": {
+      "name": "Joseph Muoio",
+      "id": "10202958638429200"
+    },
+    "message": "I get the pings. I love it. because i wanna win",
+    "id": "10150596813062584_1257640374279078"
+  }, {
+    "created_time": "2016-12-15T22:15:15+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Then why haven't you held it longer than a couple of hours? :-P",
+    "id": "10150596813062584_1179949655428878"
+  }, {
+    "created_time": "2016-12-15T22:15:54+0000",
+    "from": {
+      "name": "Joseph Muoio",
+      "id": "10202958638429200"
+    },
+    "message": "shhhh dont tell everyone theyll think im a loser",
+    "id": "10150596813062584_1249312131778274"
+  }, {
+    "created_time": "2016-12-15T22:16:08+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "lol",
+    "id": "10150596813062584_773816656109462"
+  }, {
+    "created_time": "2016-12-15T22:57:23+0000",
+    "from": {
+      "name": "Alice Yu",
+      "id": "10204684864655316"
+    },
+    "message": "Lol",
+    "id": "10150596813062584_1249337335109087"
+  }, {
+    "created_time": "2016-12-15T23:28:18+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "loL",
+    "id": "10150596813062584_1257713100938472"
+  }, {
+    "created_time": "2016-12-15T23:41:34+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "no u",
+    "id": "10150596813062584_773869649437496"
+  }, {
+    "created_time": "2016-12-15T23:57:51+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "U no better.",
+    "id": "10150596813062584_1180022705421573"
+  }, {
+    "created_time": "2016-12-15T23:59:15+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "No u",
+    "id": "10150596813062584_580518258813229"
+  }, {
+    "created_time": "2016-12-16T00:01:23+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "Dammit Jezebel",
+    "id": "10150596813062584_773874116103716"
+  }, {
+    "created_time": "2016-12-16T00:15:38+0000",
+    "from": {
+      "name": "Camille Marguerite",
+      "id": "10205194130029743"
+    },
+    "message": ".",
+    "id": "10150596813062584_1257742854268830"
+  }, {
+    "created_time": "2016-12-16T00:16:15+0000",
+    "from": {
+      "name": "Camille Marguerite",
+      "id": "10205194130029743"
+    },
+    "message": "Joseph what a loser",
+    "id": "10150596813062584_1191810220872189"
+  }, {
+    "created_time": "2016-12-16T00:16:39+0000",
+    "from": {
+      "name": "Joseph Muoio",
+      "id": "10202958638429200"
+    },
+    "message": "Wowowowow",
+    "id": "10150596813062584_1249393565103464"
+  }, {
+    "created_time": "2016-12-16T00:16:56+0000",
+    "from": {
+      "name": "Camille Marguerite",
+      "id": "10205194130029743"
+    },
+    "message": "ha",
+    "id": "10150596813062584_1180060138751163"
+  }, {
+    "created_time": "2016-12-16T00:18:05+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "no",
+    "id": "10150596813062584_1180061195417724"
+  }, {
+    "created_time": "2016-12-16T00:19:37+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "",
+    "id": "10150596813062584_773879416103186"
+  }, {
+    "created_time": "2016-12-16T00:19:44+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "That's me as a dog.",
+    "id": "10150596813062584_1249395475103273"
+  }, {
+    "created_time": "2016-12-16T00:34:23+0000",
+    "from": {
+      "name": "Joseph Muoio",
+      "id": "10202958638429200"
+    },
+    "message": "Camille Marguerite you just mad I don 't bring you soymilk anymore",
+    "id": "10150596813062584_1180081638749013"
+  }, {
+    "created_time": "2016-12-16T00:34:54+0000",
+    "from": {
+      "name": "Camille Marguerite",
+      "id": "10205194130029743"
+    },
+    "message": "I can purchase my own dang soymilk",
+    "id": "10150596813062584_1257768860932896"
+  }, {
+    "created_time": "2016-12-16T00:35:03+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "Soymilk is hella protein dense.",
+    "id": "10150596813062584_1257770904266025"
+  }, {
+    "created_time": "2016-12-16T00:35:08+0000",
+    "from": {
+      "name": "Joseph Muoio",
+      "id": "10202958638429200"
+    },
+    "message": "Yeah but that costs money",
+    "id": "10150596813062584_1191823260870885"
+  }, {
+    "created_time": "2016-12-16T00:36:15+0000",
+    "from": {
+      "name": "Camille Marguerite",
+      "id": "10205194130029743"
+    },
+    "message": "I don't know who you are but I feel compelled to call you protein dense",
+    "id": "10150596813062584_1191826700870541"
+  }, {
+    "created_time": "2016-12-16T00:40:46+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "I wish. I'd probably be sexier..",
+    "id": "10150596813062584_1249404975102323"
+  }, {
+    "created_time": "2016-12-16T02:21:40+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Blah",
+    "id": "10150596813062584_1191890810864130"
+  }, {
+    "created_time": "2016-12-16T02:24:46+0000",
+    "from": {
+      "name": "Camille Marguerite",
+      "id": "10205194130029743"
+    },
+    "message": "I don't know the appropriate response to that statement",
+    "id": "10150596813062584_1249479011761586"
+  }, {
+    "created_time": "2016-12-16T02:33:52+0000",
+    "from": {
+      "name": "Nathan Fox",
+      "id": "927619137296802"
+    },
+    "message": "Is this an achievement for Louie or a testament to his friends?...",
+    "id": "10150596813062584_1191897120863499"
+  }, {
+    "created_time": "2016-12-16T03:03:03+0000",
+    "from": {
+      "name": "Justin Ma",
+      "id": "1075417732471708"
+    },
+    "message": "PING",
+    "id": "10150596813062584_1249504831759004"
+  }, {
+    "created_time": "2016-12-16T03:03:38+0000",
+    "from": {
+      "name": "Manhar Dalal",
+      "id": "10202367676609056"
+    },
+    "message": "Next comment loses.",
+    "id": "10150596813062584_1249505055092315"
+  }, {
+    "created_time": "2016-12-16T03:07:31+0000",
+    "from": {
+      "name": "Joseph Muoio",
+      "id": "10202958638429200"
+    },
+    "message": "^not your post, can't make rules",
+    "id": "10150596813062584_1191916870861524"
+  }, {
+    "created_time": "2016-12-16T03:08:33+0000",
+    "from": {
+      "name": "Manhar Dalal",
+      "id": "10202367676609056"
+    },
+    "message": "You lose.",
+    "id": "10150596813062584_773947056096422"
+  }, {
+    "created_time": "2016-12-16T03:11:14+0000",
+    "from": {
+      "name": "Joseph Muoio",
+      "id": "10202958638429200"
+    },
+    "message": "Sure, yeah, w/e",
+    "id": "10150596813062584_773948456096282"
+  }, {
+    "created_time": "2016-12-16T03:14:54+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "No",
+    "id": "10150596813062584_1249513571758130"
+  }, {
+    "created_time": "2016-12-16T03:22:50+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "God dammit. All these people trying to do additional rules. They're very simple. Last comment wins.",
+    "id": "10150596813062584_1257892080920574"
+  }, {
+    "created_time": "2016-12-16T03:26:01+0000",
+    "from": {
+      "name": "Joseph Muoio",
+      "id": "10202958638429200"
+    },
+    "message": "Right? Fuck newfag rules",
+    "id": "10150596813062584_773954042762390"
+  }, {
+    "created_time": "2016-12-16T03:41:31+0000",
+    "from": {
+      "name": "Jeffrey Lin",
+      "id": "10152514646028519"
+    },
+    "message": "The great thing about this post is that everyone was a winner at some point. Just like how everyone was once the youngest baby in the world.",
+    "id": "10150596813062584_1191938820859329"
+  }, {
+    "created_time": "2016-12-16T03:41:59+0000",
+    "from": {
+      "name": "Justin Ma",
+      "id": "1075417732471708"
+    },
+    "message": "Your one point is now over.",
+    "id": "10150596813062584_1180230122067498"
+  }, {
+    "created_time": "2016-12-16T03:42:33+0000",
+    "from": {
+      "name": "Joseph Muoio",
+      "id": "10202958638429200"
+    },
+    "message": "Sick",
+    "id": "10150596813062584_1257907620919020"
+  }, {
+    "created_time": "2016-12-16T03:43:04+0000",
+    "from": {
+      "name": "Jeffrey Lin",
+      "id": "10152514646028519"
+    },
+    "message": "I got many points today. From my no spin serves.",
+    "id": "10150596813062584_580597582138630"
+  }, {
+    "created_time": "2016-12-16T03:53:29+0000",
+    "from": {
+      "name": "John Li",
+      "id": "10204737974312893"
+    },
+    "message": "I feel like I'm going to win very shortly.",
+    "id": "10150596813062584_1180237135400130"
+  }, {
+    "created_time": "2016-12-16T03:55:15+0000",
+    "from": {
+      "name": "Justin Ma",
+      "id": "1075417732471708"
+    },
+    "message": "As in, you were winning for a short period of time?",
+    "id": "10150596813062584_773962979428163"
+  }, {
+    "created_time": "2016-12-16T04:01:22+0000",
+    "from": {
+      "name": "Joseph Muoio",
+      "id": "10202958638429200"
+    },
+    "message": "I know I was.",
+    "id": "10150596813062584_1191951734191371"
+  }, {
+    "created_time": "2016-12-16T04:01:31+0000",
+    "from": {
+      "name": "Jeffrey Lin",
+      "id": "10152514646028519"
+    },
+    "message": ".",
+    "id": "10150596813062584_1257922614250854"
+  }, {
+    "created_time": "2016-12-16T04:01:36+0000",
+    "from": {
+      "name": "Jeffrey Lin",
+      "id": "10152514646028519"
+    },
+    "message": "stop it",
+    "id": "10150596813062584_1180240158733161"
+  }, {
+    "created_time": "2016-12-16T04:01:41+0000",
+    "from": {
+      "name": "Jeffrey Lin",
+      "id": "10152514646028519"
+    },
+    "message": "seagulls",
+    "id": "10150596813062584_1249534405089380"
+  }, {
+    "created_time": "2016-12-16T04:01:41+0000",
+    "from": {
+      "name": "Joseph Muoio",
+      "id": "10202958638429200"
+    },
+    "message": ".",
+    "id": "10150596813062584_1257922660917516"
+  }, {
+    "created_time": "2016-12-16T04:01:43+0000",
+    "from": {
+      "name": "Joseph Muoio",
+      "id": "10202958638429200"
+    },
+    "message": "no",
+    "id": "10150596813062584_580601572138231"
+  }, {
+    "created_time": "2016-12-16T04:01:50+0000",
+    "from": {
+      "name": "Joseph Muoio",
+      "id": "10202958638429200"
+    },
+    "message": "at the seashore",
+    "id": "10150596813062584_773967476094380"
+  }, {
+    "created_time": "2016-12-16T04:02:16+0000",
+    "from": {
+      "name": "Jeffrey Lin",
+      "id": "10152514646028519"
+    },
+    "message": "one day when you're older",
+    "id": "10150596813062584_1249534535089367"
+  }, {
+    "created_time": "2016-12-16T04:02:22+0000",
+    "from": {
+      "name": "Jeffrey Lin",
+      "id": "10152514646028519"
+    },
+    "message": "you could get hit by a boulder",
+    "id": "10150596813062584_1257922880917494"
+  }, {
+    "created_time": "2016-12-16T04:02:38+0000",
+    "from": {
+      "name": "Jeffrey Lin",
+      "id": "10152514646028519"
+    },
+    "message": "and as you lie there crying help me please",
+    "id": "10150596813062584_773967999427661"
+  }, {
+    "created_time": "2016-12-16T04:02:46+0000",
+    "from": {
+      "name": "Jeffrey Lin",
+      "id": "10152514646028519"
+    },
+    "message": "seagulls will come. poke your knees",
+    "id": "10150596813062584_1180240552066455"
+  }, {
+    "created_time": "2016-12-16T04:25:04+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Nah",
+    "id": "10150596813062584_1191967480856463"
+  }, {
+    "created_time": "2016-12-16T04:46:19+0000",
+    "from": {
+      "name": "John Li",
+      "id": "10204737974312893"
+    },
+    "message": "Darn, I don't think my bot has permissions to access this status :/. I was gonna post something every minute indefinitely.",
+    "id": "10150596813062584_1191976370855574"
+  }, {
+    "created_time": "2016-12-16T04:46:52+0000",
+    "from": {
+      "name": "Louie Cai",
+      "id": "10152486798487584"
+    },
+    "message": "^What a cheater",
+    "id": "10150596813062584_1257944920915290"
+  }, {
+    "created_time": "2016-12-16T04:49:58+0000",
+    "from": {
+      "name": "Kyle O'Connell",
+      "id": "785090131613249"
+    },
+    "message": "Still alive huh",
+    "id": "10150596813062584_1249567311752756"
+  }, {
+    "created_time": "2016-12-16T04:51:01+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Ye",
+    "id": "10150596813062584_773983706092757"
+  }, {
+    "created_time": "2016-12-16T10:50:36+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "Ye",
+    "id": "10150596813062584_1249735565069264"
+  }, {
+    "created_time": "2016-12-16T10:51:23+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "blarghonk",
+    "id": "10150596813062584_1180563898700787"
+  }, {
+    "created_time": "2016-12-16T12:40:38+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Don't you blarghonk at me",
+    "id": "10150596813062584_774192736071854"
+  }, {
+    "created_time": "2016-12-16T14:50:25+0000",
+    "from": {
+      "name": "Djames Ryan Hennessy",
+      "id": "10152791201538115"
+    },
+    "message": "Nick Broidoi Swyter is last he wins !",
+    "id": "10150596813062584_774278449396616"
+  }, {
+    "created_time": "2016-12-16T15:04:00+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "nah",
+    "id": "10150596813062584_774282716062856"
+  }, {
+    "created_time": "2016-12-16T15:25:42+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "blarghonk",
+    "id": "10150596813062584_1192365557483322"
+  }, {
+    "created_time": "2016-12-16T15:25:55+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "Don't you blarghonk at me",
+    "id": "10150596813062584_580808378784217"
+  }, {
+    "created_time": "2016-12-16T15:27:52+0000",
+    "from": {
+      "name": "Kyle O'Connell",
+      "id": "785090131613249"
+    },
+    "message": "No",
+    "id": "10150596813062584_774292636061864"
+  }, {
+    "created_time": "2016-12-16T15:27:55+0000",
+    "from": {
+      "name": "Kyle O'Connell",
+      "id": "785090131613249"
+    },
+    "message": "Wow",
+    "id": "10150596813062584_1258476064195509"
+  }, {
+    "created_time": "2016-12-16T15:27:59+0000",
+    "from": {
+      "name": "Kyle O'Connell",
+      "id": "785090131613249"
+    },
+    "message": "The",
+    "id": "10150596813062584_1249932535049567"
+  }, {
+    "created_time": "2016-12-16T15:28:09+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "lol",
+    "id": "10150596813062584_1180863802004130"
+  }, {
+    "created_time": "2016-12-16T15:29:59+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "blarghonk",
+    "id": "10150596813062584_1180864758670701"
+  }, {
+    "created_time": "2016-12-16T15:30:32+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "no",
+    "id": "10150596813062584_580809698784085"
+  }, {
+    "created_time": "2016-12-16T18:28:50+0000",
+    "from": {
+      "name": "Taylor Nathan Thomas",
+      "id": "10152842244779676"
+    },
+    "message": "blarghonk",
+    "id": "10150596813062584_1250062131703274"
+  }, {
+    "created_time": "2016-12-16T18:29:27+0000",
+    "from": {
+      "name": "Jacob Rush",
+      "id": "10152759885774772"
+    },
+    "message": "yes?",
+    "id": "10150596813062584_1250062445036576"
+  }]
+}

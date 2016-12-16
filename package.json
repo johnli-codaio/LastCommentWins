@@ -1,0 +1,9 @@
+{
+  "name": "CommentAnalyzer",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "lodash": "4.14.0",
+    "moment": "2.15.1"
+  }
+}
